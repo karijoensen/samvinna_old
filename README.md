@@ -14,15 +14,15 @@
 
 
 ### Heimildaskrá
-Alþingistíðindi
-Helgi Skúli Kjartansson, Jónas Guðmundsson og Jón Sigurðsson. (2003). Samvinnuhreyfingin í sögu Íslands. Reykjavík: Sögufélagið. 
-Henrÿ, Hagen. (2012). Guidelines for Cooperative legislation (3. útgáfa). Geneva: ILO.
-Lög nr. 22/1991 
-Lög nr. 66/2003
-Lög nr. 92/2006
-R193 – Promotion of Cooperatives Recommendation, 2002 (no. 193)
-Samþykktir fyrir Kaupfélag Skagfirðinga
-Samþykktir fyrir Sláturfélag Suðurlands Svf
+Alþingistíðindi 
+Helgi Skúli Kjartansson, Jónas Guðmundsson og Jón Sigurðsson. (2003). Samvinnuhreyfingin í sögu Íslands. Reykjavík: Sögufélagið.  
+Henrÿ, Hagen. (2012). Guidelines for Cooperative legislation (3. útgáfa). Geneva: ILO.  
+Lög nr. 22/1991  
+Lög nr. 66/2003 
+Lög nr. 92/2006 
+R193 – Promotion of Cooperatives Recommendation, 2002 (no. 193) 
+Samþykktir fyrir Kaupfélag Skagfirðinga 
+Samþykktir fyrir Sláturfélag Suðurlands Svf 
 
 
 
