@@ -10,10 +10,7 @@
 5. Education, Training, and Information
 6. Cooperation among Cooperatives
 7. Concern for Community
-
-
-
-
+8. more?
 
 You can use the [editor on GitHub](https://github.com/karijoensen/samvinna/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
