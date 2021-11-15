@@ -12,6 +12,20 @@
 7. Concern for Community
 8. more?
 
+
+### Heimildaskrá
+Alþingistíðindi
+Helgi Skúli Kjartansson, Jónas Guðmundsson og Jón Sigurðsson. (2003). Samvinnuhreyfingin í sögu Íslands. Reykjavík: Sögufélagið. 
+Henrÿ, Hagen. (2012). Guidelines for Cooperative legislation (3. útgáfa). Geneva: ILO.
+Lög nr. 22/1991 
+Lög nr. 66/2003
+Lög nr. 92/2006
+R193 – Promotion of Cooperatives Recommendation, 2002 (no. 193)
+Samþykktir fyrir Kaupfélag Skagfirðinga
+Samþykktir fyrir Sláturfélag Suðurlands Svf
+
+
+
 You can use the [editor on GitHub](https://github.com/karijoensen/samvinna/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
