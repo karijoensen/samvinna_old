@@ -1,6 +1,11 @@
 ## Welcome to GitHub Pages
 ### Rekstarform samvinnufélaga og ný tækifæri
 
+#### Lýsing
+Samvinnufélög í Evrópu og N-Ameríku eru útbreidd á sviði verslunar, fjármálaþjónustu, húsnæðis, landbúnaðar ofl. Einnig er samvinnufélagsformið víða mikilvægt í starfi um réttindi launafólks, og gæti verið tækifæri á Íslandi, nú þegar algengara er að fólk stundi sjálfstæðan atvinnurekstur. Horft hefur
+verið til þess að lýðræðisleg uppbygging samvinnufélaga og sú áhersla á samfélagslega ábyrgð sem innbyggð er í þau félög, hafi hjálpað þeim að standa af sér áhlaup vegna efnahagskreppa og átt sinn þátt í að byggja upp sanngjarnari vinnumarkað.
+
+
 
 ### Cooperative Principles
 1. Voluntary and Open Membership
@@ -14,15 +19,16 @@
 
 
 ### Heimildaskrá
-Alþingistíðindi 
+Alþingistíðindi  
 Helgi Skúli Kjartansson, Jónas Guðmundsson og Jón Sigurðsson. (2003). Samvinnuhreyfingin í sögu Íslands. Reykjavík: Sögufélagið.  
 Henrÿ, Hagen. (2012). Guidelines for Cooperative legislation (3. útgáfa). Geneva: ILO.  
 Lög nr. 22/1991  
-Lög nr. 66/2003 
-Lög nr. 92/2006 
-R193 – Promotion of Cooperatives Recommendation, 2002 (no. 193) 
-Samþykktir fyrir Kaupfélag Skagfirðinga 
-Samþykktir fyrir Sláturfélag Suðurlands Svf 
+Lög nr. 66/2003  
+Lög nr. 92/2006  
+R193 – Promotion of Cooperatives Recommendation, 2002 (no. 193)  
+Samþykktir fyrir Kaupfélag Skagfirðinga  
+Samþykktir fyrir Sláturfélag Suðurlands Svf  
+
 
 
 
